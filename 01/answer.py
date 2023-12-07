@@ -8,7 +8,6 @@ output2 = 0
 
 for x in range(0, len(lines)):
     y = lines[x].split("\n")[0]
-    print(y)
 
     # Part One
     linelist = []
